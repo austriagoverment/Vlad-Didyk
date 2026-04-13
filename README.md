@@ -1,1 +1,1 @@
-// (more)[https://didykvlad.vercel.app/]
+[// more](https://didykvlad.vercel.app/)
